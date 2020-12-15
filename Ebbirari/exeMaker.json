@@ -1,0 +1,17 @@
+{
+  "platform": "windows64",
+  "jdk": "/Users/awkohler/Downloads/openjdk-1.7.0-u60-unofficial-windows-i586-image.zip",
+  "executable": "Ebbirari",
+  "classpath": [
+    "EbbiLauncher.jar"
+  ],
+  "mainclass": "com.mygdx.ebbirari.desktop.DesktopLauncher",
+  "vmargs": [
+    "Xmx1G"
+  ],
+  "resources": [
+    "core/assets"
+  ],
+  "minimizejre": "soft",
+  "output": "/Users/awkohler/Desktop/Version B/emptyFolder"
+}
